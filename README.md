@@ -1,30 +1,11 @@
+## :)
 
-📌 **Objetivo:** compartilhar exemplos práticos de **customizações em ADVPL, MVC e TL++** para o **TOTVS Protheus**, ajudando a comunidade e também consolidando meu aprendizado.  
+Olá! Meu nome é Jaylson Borges Teixeira e trabalho com desenvolvimento TOTVS Protheus em **ADVPL, MVC e TL++.  
 
----
+Tenho paixão por **resolver problemas complexos, criar soluções eficientes** e compartilhar conhecimento com a comunidade de desenvolvedores.  
 
-## 🎯 O que você vai encontrar aqui  
-- Exemplos de **customizações em ADVPL** (funções `U_`, relatórios, integrações).  
-- Rotinas criadas em **MVC**, explorando o padrão Model-View-Controller do Protheus.  
-- Estudos e práticas em **TL++**, a linguagem moderna do ecossistema TOTVS.  
-- **Desafios práticos** que desenvolvi para melhorar minhas habilidades e ajudar outros profissionais.  
+Neste repositório, reúno exemplos práticos de customizações e desafios que desenvolvi para **aprimorar minhas habilidades** e ajudar outros profissionais a aprender e se inspirar.  
 
----
-
-## 🚀 Por que esse repositório?  
-- Compartilhar conhecimento de forma aberta.  
-- Ajudar outros desenvolvedores que estão começando no mundo **ADVPL / Protheus**.  
-- Criar um portfólio público das minhas práticas e experimentos.  
-
----
-
-## 💡 Como contribuir  
-- Sugira novos desafios ou melhorias via **Issues**.  
-- Envie **Pull Requests** com correções ou novas ideias.  
-
----
-
-## 📬 Contato  
-Se quiser trocar ideia ou colaborar:  
-- [LinkedIn - Jaylson Borges Teixeira](https://www.linkedin.com/in/jaylson-borges-teixeira/)  
-- [GitHub - JaylsonBTeixeira](https://github.com/JaylsonBTeixeira)
+Se quiser trocar ideia ou acompanhar meus projetos, você pode me encontrar aqui:  
+- [LinkedIn](https://www.linkedin.com/in/jaylson-borges-teixeira/)  
+- [GitHub](https://github.com/JaylsonBTeixeira)
